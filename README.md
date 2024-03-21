@@ -1,4 +1,4 @@
-## Shopping Cart Website Project
+## 🛒 Shopping Cart Website Project 
 
 ### Overview
 This project is a dynamic shopping cart website created to hone my web development skills.  The website aims to provide users with a seamless shopping experience, featuring real-time updates, intuitive cart management.
