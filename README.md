@@ -1,3 +1,11 @@
+## Video 
+
+## Images
+**Home Page**
+![image](https://github.com/introvert9112k/Shopping-Cart/assets/63279776/2018aa73-3551-4dbc-b55a-fb8136468191)
+**Cat Page**
+![image](https://github.com/introvert9112k/Shopping-Cart/assets/63279776/895456f9-fbc8-4bb7-927f-0d93dc57ee56)
+
 ## 🛒 Shopping Cart Website Project 
 
 ### Overview
